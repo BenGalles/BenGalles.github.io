@@ -156,3 +156,4 @@ alias la='ls -a'
 ```
 export PS1=`printf "\033[33m$ \033[44m \033[107m"`
 ```
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/90875690/199837963-71d33abb-b9fc-4cdf-a6ac-4bce249e9495.png">
