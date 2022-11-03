@@ -1,1 +1,1 @@
-BenGalles.github.io/Archlinux_Documentation
+https://BenGalles.github.io/Archlinux_Documentation
