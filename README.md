@@ -17,6 +17,8 @@ timedatectl set-timezone America/Chicago
 ```
 fdisk -l
 fdisk /dev/sda
+```
+```
 g
 ```
 - To create the future boot drive I used:
@@ -47,6 +49,8 @@ n
 t
 -
 23
+```
+```
 w
 ```
 - In order to format and start/mount all the drives I used:
