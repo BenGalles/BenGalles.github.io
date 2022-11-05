@@ -14,7 +14,7 @@ sudo usermod -aG docker sysadmin
 sudo apt update
 sudo apt install docker-compose-plugin
 ```
-[Pi-Hole-Documentation](https://github.com/pi-hole/docker-pi-hole/#running-pi-hole-docker)
+[Pi-Hole Documentation](https://github.com/pi-hole/docker-pi-hole/#quick-start)
 - I used this to edit docker-compose.yml
 ```
 vim docker-compose.yml
