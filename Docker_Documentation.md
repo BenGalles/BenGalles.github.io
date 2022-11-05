@@ -30,4 +30,5 @@ docker compose up -d
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/90875690/200099250-57e0b99e-dd86-4af7-a2e8-91de592cb987.png">
 - Then I checked my local pihole on pi.hole/admin/
 
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/90875690/200099236-30e3074f-29c1-45e3-9379-2179c9a23207.png">
