@@ -77,8 +77,10 @@ docker-compose logs -f wireguard
 - To use wireguard on my phone I used
 	- +
 	- Create from QR code
+![IMG_7653](https://user-images.githubusercontent.com/90875690/202040581-c8d413f7-4fac-462b-9b7c-061e00ac00a3.PNG)
 - To use wireguard on my computer I first used
 	```
 	vim config/peer_pc1/peer_pc1.conf
 	```
 	- Then I copied the contents into a new document on my desktop and named in wireguard.conf 
+<img width="497" alt="Screenshot 2022-11-15 164038" src="https://user-images.githubusercontent.com/90875690/202040494-2ef4044c-5ccd-42de-b03a-21ee74b649ca.png">
