@@ -4,6 +4,7 @@
 - For the droplet I chose the Basic type with the regular 6$/month plan so that I would have enought storage
 - Next I chose the password option and auto generated a random password to use
 - Then I hit create droplet
+
 ### Installing Docker
 - Once the droplet was created, I opened the console and followed [this article](https://thematrix.dev/install-docker-and-docker-compose-on-ubuntu-20-04/) to install docker
 - Following the article, I used
